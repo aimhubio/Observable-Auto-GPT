@@ -100,9 +100,6 @@ class AimCallback:
                 args.pop(key)
         return args
 
-    def close(self):
-        self.__del__()
-
     def __del__(self):
         if self._run and self._run.active:
             self._run.close()

@@ -161,7 +161,6 @@ class Agent:
                     )
                 elif user_input == "EXIT":
                     print("Exiting...", flush=True)
-                    self.aim_callback.close()
                     break
             else:
                 # Print command
