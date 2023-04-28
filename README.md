@@ -44,3 +44,6 @@ Next, let's set 3 goals for our AI agent:
 - Suggest restaurants and locations that are popular among the locals
 
 Auto-GPT will begin generating prompts for the LLM and executing commands. You can monitor all outputs from each run's Text page, or for more extensive searches, you can use Text Explorer.
+
+![Text page view](https://user-images.githubusercontent.com/23078323/235255503-b92bc7cb-a576-4db8-812e-80eee911378d.gif)
+
